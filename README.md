@@ -23,7 +23,7 @@ Once you generate the table maintenance, you will get a warning message like thi
 
 Double click on the screen number to open the screen painter. Then click on “Layout” button on the toolbar.
 
-In screen painter take the button and draw it at the end of the table.me it “Edit Text”
+In screen painter take the button and draw it at the end of the table. Name it “Edit Text”
 
 Save and activate it, go back to flow logic and go to “Element List” tab.
 
